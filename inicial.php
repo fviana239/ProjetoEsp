@@ -3,7 +3,7 @@
     <head>
         <title>Ativar ou desativar</title>
         <meta charset="utf-8">
-        <h2>ESP8266 Web</h2>
+        <h2>ESP8266 OnLine</h2>
     </head>
     <body>
         <form action="novo.php" method="POST">
