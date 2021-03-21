@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title>Ativar ou desativar
-            .</title>
+        <title>Ativar ou desativar</title>
         <meta charset="utf-8">
         <h2>ESP8266 Web</h2>
     </head>
