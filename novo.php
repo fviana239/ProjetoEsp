@@ -3,9 +3,9 @@
 //**** Teste 01
 
   $servername = "localhost";
-  $dbname = "id16368292_exemplo_estado_esp";
-  $username = "id16368292_usuario_estado_esp";
-  $password = "G[k/_qvhcX-n4IN*"; 
+  $dbname = "*************"; // Nome do banco de dados
+  $username = "***********"; // Nome do usuario
+  $password = "***********"; // Senah do banco de dados
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
