@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
  
-const char* ssid = "SPIKE";
-const char* password = "spike-239*";
+const char* ssid = "********"; // Nome da rede no roteador
+const char* password = "********";  // Senha do wifi
  
 void setup () {
   
